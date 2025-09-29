@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtM4KAL3eY0=",
+  "success": true,
+  "projectFilePath": "D:\\Zeggs_shell\\programming\\cs\\miditopng\\miditopng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eblan\\.nuget\\packages\\aspose.drawing.common\\25.5.0\\aspose.drawing.common.25.5.0.nupkg.sha512",
+    "C:\\Users\\eblan\\.nuget\\packages\\melanchall.drywetmidi\\7.2.0\\melanchall.drywetmidi.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

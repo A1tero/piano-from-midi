@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "miditopng/1.0.0": {
+        "dependencies": {
+          "Aspose.Drawing.Common": "25.5.0",
+          "Melanchall.DryWetMidi": "7.2.0"
+        },
+        "runtime": {
+          "miditopng.dll": {}
+        }
+      },
+      "Aspose.Drawing.Common/25.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Aspose.Drawing.Common.dll": {
+            "assemblyVersion": "25.5.0.0",
+            "fileVersion": "25.5.0.0"
+          }
+        }
+      },
+      "Melanchall.DryWetMidi/7.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Melanchall.DryWetMidi.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "miditopng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aspose.Drawing.Common/25.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r3TPla3xQZTr/3TaubICJGKg6N/EX71mYDLEq4fduE6OLMTH9I7xQD/Rb13QipKGTbCjcv22FCHtjidS56dMaA==",
+      "path": "aspose.drawing.common/25.5.0",
+      "hashPath": "aspose.drawing.common.25.5.0.nupkg.sha512"
+    },
+    "Melanchall.DryWetMidi/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iSD5vQtWqte5yq745x7WCY+HVhaQH4jt9Usf/3d3rDDf7uL7zJZNbJfSkF83XNQagc5io5NFAAQVm2EuI4CGWQ==",
+      "path": "melanchall.drywetmidi/7.2.0",
+      "hashPath": "melanchall.drywetmidi.7.2.0.nupkg.sha512"
+    }
+  }
+}
